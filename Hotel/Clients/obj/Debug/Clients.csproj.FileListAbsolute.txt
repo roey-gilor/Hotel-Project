@@ -1,0 +1,5 @@
+C:\Users\roi\Desktop\האקריו\Hotel\Clients\bin\Debug\Clients.dll
+C:\Users\roi\Desktop\האקריו\Hotel\Clients\bin\Debug\Clients.pdb
+C:\Users\roi\Desktop\האקריו\Hotel\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\roi\Desktop\האקריו\Hotel\Clients\obj\Debug\Clients.dll
+C:\Users\roi\Desktop\האקריו\Hotel\Clients\obj\Debug\Clients.pdb
